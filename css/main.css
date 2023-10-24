@@ -1,0 +1,9 @@
+@import "./base/reset.css"; /* reset e variaveis devem ser importados primeiro */
+@import "./base/variaveis.css";
+@import "./layout/header.css";
+@import "./layout/rodape.css";
+@import "./module/movie.css";
+@import "./layout/categorias.css";
+@import "./layout/card.css";
+@import 'atropos/css';
+
